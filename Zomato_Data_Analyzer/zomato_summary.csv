@@ -1,0 +1,24 @@
+Metric,Value
+Total Restaurants,8792
+Total Columns,11
+Total Locations,93
+Total Restaurant Types,93
+Total Cuisines,2723
+Total Missing Values,8414
+Total Duplicates,108
+Average Rating,3.7
+Highest Rating,4.9
+Lowest Rating,1.8
+Most Popular Restaurant,Byg Brewski Brewing Company
+Most Restaurants Location,Whitefield
+Most Common Restaurant Type,Quick Bites
+Most Common Cuisine,North Indian
+Average Food Cost,555.43
+Maximum Cost For Two,6000.0
+Minimum Cost For Two,40.0
+Restaurants Accepting Online Orders,4183
+Restaurants Not Accepting Online Orders,4609
+Restaurants With Table Booking,760
+Restaurants Without Table Booking,8032
+Average Votes Across Dataset,283.7
+Highest Votes Across Dataset,16832
